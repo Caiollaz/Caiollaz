@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando no Grupo LW como Desenvolvedor Pleno
-- 🌱 Estou aprendendo Vue.js, Nuxt.js, IA e DevOps
+- 🌱 Estou aprendendo Vue.js, Nuxt.js, IA, N8N e DevOps
 - ⚡ Curiosidades: Sou autodidata, movido a café, apaixonado por resolver problemas complexos e sempre em busca do próximo desafio tecnológico. Acredito que o melhor código é aquele que nunca para de evoluir.
 
 ## Tecnologias e Ferramentas
