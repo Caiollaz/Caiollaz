@@ -27,6 +27,7 @@
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=Caiollaz&show_icons=true&theme=dark)
+
 ![Linguagens Mais Usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Caiollaz&show_icons=true&theme=dark)
 
 ## Contato
