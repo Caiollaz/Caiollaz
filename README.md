@@ -27,7 +27,7 @@
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=Caiollaz&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiollaz&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Caiollaz&show_icons=true&theme=dark)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiolabella/)
