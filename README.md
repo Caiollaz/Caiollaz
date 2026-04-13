@@ -26,8 +26,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Caiollaz&show_icons=true&theme=radical)
-
+![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=Caiollaz&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiollaz&layout=compact&theme=radical)
 
 ## Contato
