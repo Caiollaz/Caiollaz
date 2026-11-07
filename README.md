@@ -1,43 +1,34 @@
-# Hi, I'm Caio Labella 👋
+# Caio Labella
 
-## About Me
-Software Engineer focused on building scalable web systems and SaaS products.
+Senior Software Engineer at Chaves na Mão and founder of Grupo MIX. Full stack, from API design and service architecture to the screen and the production deploy. Based in Curitiba, Brazil.
 
-I work across the full stack — from API design and system architecture to frontend delivery and production infrastructure. My main focus is on creating robust, maintainable systems that evolve over time.
+## What I work on
 
-Currently working at Grupo LW, while also building and experimenting with SaaS, automation, and AI-driven products.
+- **Platform engineering at Chaves na Mão.** A monorepo of 19 Node.js applications (Express, NestJS) behind a large real estate marketplace, and the strategy to retire the PHP legacy it replaces.
+- **Event-driven back ends.** Queue-based processing with Amazon SQS and BullMQ, and integrations with ERPs, CRMs, e-signature and invoicing services.
+- **Applied AI.** Agent orchestration, MCP servers, skills and hooks for coding agents, and LLM features shipped inside products.
+- **Grupo MIX.** Custom software, internal tools and AI automations for small and mid-size companies.
 
-Key interests:
-- Scalable architectures and distributed systems
-- SaaS and micro-SaaS development
-- Process automation and AI integration
-- Continuous improvement of systems and codebases
+I also work with C# and .NET: REST APIs with ASP.NET Core and Entity Framework Core, and cross-platform apps with .NET MAUI.
 
-## Tech Stack
+## Selected projects
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [orquestra](https://github.com/Caiollaz/orquestra) | Desktop agent orchestrator: an infinite canvas of live PTY terminals running Claude Code, Codex and other agent CLIs, which can talk to each other | Tauri 2, React, TypeScript |
+| [atelier](https://github.com/Caiollaz/atelier) | Design skill for coding agents. Audits running products and builds interfaces that read as designed, not AI-generated | Agent skills, HTML |
+| [dext](https://github.com/Caiollaz/dext) | Local-first developer toolbox: JWT decoder, Base64, UUID generator, JSON diff | Tauri 2, React, TypeScript |
+| [hookin](https://github.com/Caiollaz/hookin) | Webhook inspector: custom endpoints that capture headers, body, query and IP of every request in real time | TypeScript monorepo, API + web |
+| [pvm](https://github.com/Caiollaz/pvm) | PHP version manager for the terminal | Shell |
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Caiollaz&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Caiollaz&show_icons=true&theme=dark)
+## Stack
+
+**Languages:** TypeScript, JavaScript, PHP, C#, SQL
+**Back end:** Node.js, NestJS, Express, Fastify, Laravel, ASP.NET Core
+**Front end and mobile:** React, Next.js, Vue.js, Nuxt, React Native, Capacitor, Tailwind CSS, .NET MAUI
+**Data:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+**Infra:** AWS, Docker, Pulumi, Terraform, CI/CD
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiolabella/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.labella@outlook.com)
 
----
-
-⭐️ From [Caiollaz](https://github.com/Caiollaz)
+[LinkedIn](https://www.linkedin.com/in/caiolabella/) · [caio.labella@outlook.com](mailto:caio.labella@outlook.com) · [mixlabs.com.br](https://mixlabs.com.br/)
