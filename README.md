@@ -19,7 +19,7 @@ I also work with C# and .NET: REST APIs with ASP.NET Core and Entity Framework C
 | [atelier](https://github.com/Caiollaz/atelier) | Design skill for coding agents. Audits running products and builds interfaces that read as designed, not AI-generated | Agent skills, HTML |
 | [dext](https://github.com/Caiollaz/dext) | Local-first developer toolbox: JWT decoder, Base64, UUID generator, JSON diff | Tauri 2, React, TypeScript |
 | [hookin](https://github.com/Caiollaz/hookin) | Webhook inspector: custom endpoints that capture headers, body, query and IP of every request in real time | TypeScript monorepo, API + web |
-| [pvm](https://github.com/Caiollaz/pvm) | PHP version manager for the terminal | Shell |
+| [pvm](https://github.com/Caiollaz/pvm) | PHP version manager: use any PHP version, with php and composer running in Docker and nothing installed on the machine | Shell, Docker |
 
 ## Stack
 
