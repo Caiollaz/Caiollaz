@@ -23,11 +23,11 @@ I also work with C# and .NET: REST APIs with ASP.NET Core and Entity Framework C
 
 ## Stack
 
-**Languages:** TypeScript, JavaScript, PHP, C#, SQL
-**Back end:** Node.js, NestJS, Express, Fastify, Laravel, ASP.NET Core
-**Front end and mobile:** React, Next.js, Vue.js, Nuxt, React Native, Capacitor, Tailwind CSS, .NET MAUI
-**Data:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
-**Infra:** AWS, Docker, Pulumi, Terraform, CI/CD
+- **Languages:** TypeScript, JavaScript, PHP, C#, SQL
+- **Back end:** Node.js, NestJS, Express, Fastify, Laravel, ASP.NET Core
+- **Front end and mobile:** React, Next.js, Vue.js, Nuxt, React Native, Capacitor, Tailwind CSS, .NET MAUI
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+- **Infra:** AWS, Docker, Pulumi, Terraform, CI/CD
 
 ## Contact
 
